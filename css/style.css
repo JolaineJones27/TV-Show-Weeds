@@ -1,0 +1,18 @@
+body {
+  padding: 20px;
+  background-color: lightblue;
+  margin: 0;
+}
+.container {
+  display: flex;
+  flex-wrap: wrap;
+
+  gap: 20px;
+  padding: 20px;
+}
+.show-card {
+  background-color: lightgrey;
+  border: 2px solid black;
+  border-radius: 10px;
+  width: 400px;
+}
