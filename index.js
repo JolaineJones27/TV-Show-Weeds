@@ -13,7 +13,7 @@ function getApiData() {
     })
     .catch((error) => console.error("Error:", error));
 }
-getApiData();
+//getApiData();
 
 //selects HTML element and assigns it to the container
 let container = document.querySelector(".container");
